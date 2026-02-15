@@ -14,6 +14,7 @@ This repository collects short, focused Rust examples used while learning langua
 ## Project structure
 
 - `macro-rules/` — Rust crate with examples showing `macro_rules!` usage
+- `formatted-print/` — Rust crate with examples of formatted printing
 - `LICENSE` — project license
 
 ## License
